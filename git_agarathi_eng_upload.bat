@@ -3,5 +3,5 @@ set foo=%%a
 cd /D/GitRepo/agarathi/search/%%a
 git add %%a*
 git commit -am "%%a* series" 
-git push 
+git push origin HEAD:gh-pages
 )
