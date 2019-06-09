@@ -7,4 +7,4 @@ https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/
 
 To download latest dictionary words
 
-https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/branches/gh-pages
+https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/tree/gh-pages
