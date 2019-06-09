@@ -1,4 +1,4 @@
-cd D:\GitRepo\agarathi
+cd D:\GitRepo\agarathi\search
 d:
 git add .
 git commit -am "%DATE%_%TIME%"
