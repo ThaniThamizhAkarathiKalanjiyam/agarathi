@@ -1,2 +1,0 @@
-# agarathi
-Open Tamil Dictionary
