@@ -32,8 +32,10 @@ You can help us to make this dictionary as a standard dictionary for the Tamil p
 
 1. Sign in your github account
 2. Fork this repository
-3. Change the particular word file available at the search folder.
-4. Commit the changes
+2.1 Clone your repo to local machine using the command **git clone "https://github.com/<YOUR_USER_NAME>/agarathi"**
+2.2 Get the changes available files in gh-pages branch through **git checkout -b gh-pages**
+3. Edit the particular word file available at the search folder.
+4. Commit the changes (see the "How to push the changes to the Repo" below)
 5. Make pull request to merge your changes with this repository
 
 ## How to push the changes to the Repo
