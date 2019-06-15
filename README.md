@@ -37,9 +37,15 @@ You can help us to make this dictionary as a standard dictionary for the Tamil p
 5. Make pull request to merge your changes with this repository
 
 ## How to push the changes to the Repo
-- Cd the/path/to/agarathi/folder
+
+Open Command prompt in windows  
+Open terminal in Linux  
+
+Type following commands.
+
+- cd the/path/to/agarathi/folder
 - git add .
 - git commit -a -m "the commit message"
 - git push origin HEAD:gh-pages
 
-## thank you
+Thank you
