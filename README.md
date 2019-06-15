@@ -9,6 +9,11 @@ To download latest dictionary words
 
 https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/tree/gh-pages
 
+## Files Template Model
+The each file and their meaning follows the following meaning
+
+See the **file_template.txt** file at this root
+
 ## Our goals
 
 - Make a dictionary which becomes Tamil language standard dictionary
@@ -30,5 +35,11 @@ You can help us to make this dictionary as a standard dictionary for the Tamil p
 3. Change the particular word file available at the search folder.
 4. Commit the changes
 5. Make pull request to merge your changes with this repository
+
+## How to push the changes to the Repo
+- Cd the/path/to/agarathi/folder
+- git add .
+- git commit -a -m "the commit message"
+- git push origin HEAD:gh-pages
 
 ## thank you
