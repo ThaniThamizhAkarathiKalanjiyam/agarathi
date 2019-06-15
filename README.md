@@ -31,7 +31,7 @@ You can help us to make this dictionary as a standard dictionary for the Tamil p
 ## How can you help this dictionary?
 
 1. Sign in your github account
-2. Fork this repository
+2. Fork this repository  
 2.1. Clone your repo to local machine using the command **git clone "https://github.com/<YOUR_USER_NAME>/agarathi"**  
 2.2. Get the changes available files in gh-pages branch through **git checkout -b gh-pages**  
 3. Edit the particular word file available at the search folder.  
