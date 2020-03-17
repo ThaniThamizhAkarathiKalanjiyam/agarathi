@@ -7,7 +7,7 @@ https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/
 
 To download latest dictionary words
 
-https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi.git
+https://codeload.github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/zip/master
 
 ## Files Template Model
 The each file and their meaning follows the following meaning
