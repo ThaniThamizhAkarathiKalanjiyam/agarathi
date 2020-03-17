@@ -1,6 +1,13 @@
 ## DictionaryName
 
-TypeOfWord
+### TypeOfWord1
+
+Meanings1
+Meanings2
+...
+MeaningsN
+
+### TypeOfWord2
 
 Meanings1
 Meanings2
