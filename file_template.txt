@@ -1,0 +1,8 @@
+## DictionaryName
+
+TypeOfWord
+
+Meanings1
+Meanings2
+...
+MeaningsN
