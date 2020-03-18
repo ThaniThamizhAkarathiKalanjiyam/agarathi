@@ -1,5 +1,5 @@
 # thani tamil agarathi
-Open Sourced Tamil Dictionary
+Open Sourced Tamil Dictionary.
 
 To check currently available words at 
 
