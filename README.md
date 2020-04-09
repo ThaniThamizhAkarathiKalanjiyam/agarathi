@@ -3,7 +3,8 @@ Open Sourced Tamil Dictionary.
 
 To check currently available words at 
 
-https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/
+Classic: https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/  
+Modern: https://isaiyini.github.io/  
 
 To download latest dictionary words
 
