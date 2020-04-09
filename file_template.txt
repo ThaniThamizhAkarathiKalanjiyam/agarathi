@@ -1,14 +1,21 @@
-## DictionaryName
-
-### TypeOfWord1
-
+# DictionaryName
+## TypeOfWord1
 Meanings1
 Meanings2
 ...
 MeaningsN
-
-### TypeOfWord2
-
+## TypeOfWord2
+Meanings1
+Meanings2
+...
+MeaningsN
+# DictionaryName2
+## TypeOfWord1
+Meanings1
+Meanings2
+...
+MeaningsN
+## TypeOfWord2
 Meanings1
 Meanings2
 ...
